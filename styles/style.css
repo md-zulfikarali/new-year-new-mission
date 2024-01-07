@@ -168,3 +168,49 @@ padding-right: 60px;
    .year-2024{
     color: red;
    }
+   /* holidays sale section */
+  .holiday-offer-sale{
+    height: 500px;
+  }
+  .holiday-sale-section{
+    margin-top: 50px;
+  
+    width: 1320px;
+    height: 300px;
+  }
+   .holidays-sale-text{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+   }
+   .holiday-sale heading{
+    font-size: 72px;
+   }
+   .holidays-heading-text{
+    color: red;
+   }
+   .holidays-sale-pictures{
+    display: flex;
+   }
+   .holidays-sale-pictures{
+    width: 1320px;
+   }
+   .girl-bag{
+    width: 200px;
+    height: 330px;
+    
+   }
+  .discount-off{
+    width: 300px;
+    height: 300px;
+padding-left: 50px;
+  }
+ .gift-box{
+   width: 800px;
+   height: 400px;
+ }
+ .holiday-sale-foot{
+    width: 1320px;
+    height: 100px;
+ }
