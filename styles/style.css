@@ -1,79 +1,93 @@
 /* header section */
-body{
+body {
     width: 80%;
     margin: auto;
 }
-header{
+
+header {
     background-image: url('../images/Banner\ Image.png');
     background-repeat: no-repeat;
-    height: 600px; 
+    height: 600px;
     width: 1320px;
 
 }
-.header h3{
+
+.header h3 {
     color: #fff;
     text-align: center;
     font-size: 32px;
-padding-left: 32px;
-padding-right: 40px;
+    padding-left: 32px;
+    padding-right: 40px;
 }
-.header h1{
-   
+
+.header h1 {
+
     text-align: center;
-    
+
     color: #fff;
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
- 
+
 }
+
 /* main section */
-.discount{
+.discount {
     text-align: center;
-    
+    background-color: #dddddd;
+    width: 1320px;
+    height: 600px;
+    margin-bottom: 50px;
 }
-.discount h2{
-    margin-top: 120px;
+
+.discount h2 {
+    padding-top: 50px;
     color: red;
-    font-size: 90px;
-    font-weight: 900;
-}
-.discount p{
-    margin-top: 48px;
-    font-size: 24px;
-    font-weight: 500;
-    color: red;
-}
-.discount h3{
-    
-    font-size: 48px;
+    font-size: 70px;
     font-weight: 700;
 }
-.discount img{
-    width: 800px;
-    height: 500px;
+
+.discount p {
+
+    font-size: 24px;
+
+    color: red;
 }
+
+.discount h3 {
+
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.discount img {
+    width: 500px;
+    height: 200px;
+}
+
 /* midnight party section  */
-.midnight-party{
+.midnight-party {
     background-image: url('../images/Vectorrr.png');
     background-repeat: no-repeat;
     width: 1320px;
-    height:600px ;
+    height: 600px;
 }
+
 .midnight-party {
     display: flex;
 }
 
-.text h2{
+.text h2 {
     color: white;
-  font-size: 64px;  
-  font-weight: 900;
-  width: 640px;
-  padding-left: 64px;
-  padding-right: 90px;
-padding-top: 120px;
+    font-size: 64px;
+    font-weight: 900;
+    width: 640px;
+    padding-left: 64px;
+    padding-right: 90px;
+    padding-top: 120px;
 }
-.text p{
+
+.text p {
     color: white;
     font-size: 18px;
     font-weight: 400;
@@ -82,21 +96,26 @@ padding-top: 120px;
     height: 60px;
     padding-left: 64px;
 }
-.picture{
+
+.picture {
     width: 300px;
     height: 450px;
     padding-top: 70px;
     padding-left: 70px;
 }
+
 /* place date and time section */
-.place-date-time{
+.place-date-time {
+
     width: 1320px;
     height: 450px;
-    background:#eeeeee ;
-   
-    
+    background: #eeeeee;
+    margin-top: 50px;
+
+
 }
-.section-para{
+
+.section-para {
     text-align: center;
     font-size: 32px;
     font-weight: 600;
@@ -104,9 +123,48 @@ padding-top: 120px;
     padding-right: 385px;
     padding-top: 100px;
 }
-.btn-join-now{
+
+.btn-join-now {
     border-radius: 10px;
     color: #fff;
-    background-color:red ;
+    background-color: red;
     padding: 16px 32px;
 }
+
+/* new best offer section */
+.new-best-offer {
+    padding: 10px;
+    display: flex;
+    width: 1320px;
+    height: 450px;
+    background-color: #dddddd;
+    margin-top: 100px;
+}
+.text-start-section{
+padding-left: 60px;
+padding-top: 60px;
+padding-right: 60px;
+}
+.best-offer-picture{
+    height:360px;
+    width: 360px;
+    flex-shrink: 0;
+    border: 10px solid red;
+    border-top-right-radius: 185px;
+    border-bottom-right-radius: 185px;
+    border-bottom-left-radius: 185px;
+    border-top-left-radius: 185px;
+    padding: 15px;
+
+}
+.text-end-section{
+    padding-left: 60px;
+    padding-top: 60px;
+    padding-right: 60px;
+    }
+    .offer{
+        color: red;
+    }
+   .year-2024{
+    color: red;
+   }
