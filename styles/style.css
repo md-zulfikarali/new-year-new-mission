@@ -1,5 +1,5 @@
 /* header section */
-body{
+body {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -141,13 +141,15 @@ header {
     background-color: #dddddd;
     margin-top: 100px;
 }
-.text-start-section{
-padding-left: 60px;
-padding-top: 60px;
-padding-right: 60px;
+
+.text-start-section {
+    padding-left: 60px;
+    padding-top: 60px;
+    padding-right: 60px;
 }
-.best-offer-picture{
-    height:360px;
+
+.best-offer-picture {
+    height: 360px;
     width: 360px;
     flex-shrink: 0;
     border: 10px solid red;
@@ -158,107 +160,171 @@ padding-right: 60px;
     padding: 15px;
 
 }
-.text-end-section{
+
+.text-end-section {
     padding-left: 60px;
     padding-top: 60px;
     padding-right: 60px;
-    }
-    .offer{
-        color: red;
-    }
-   .year-2024{
+}
+
+.offer {
     color: red;
-   }
-   /* holidays sale section */
-  .holiday-offer-sale{
+}
+
+.year-2024 {
+    color: red;
+}
+
+/* holidays sale section */
+.holiday-offer-sale {
     height: 500px;
-  }
-  .holiday-sale-section{
+}
+
+.holiday-sale-section {
     margin-top: 50px;
-  
+
     width: 1320px;
     height: 300px;
-  }
-   .holidays-sale-text{
+}
+
+.holidays-sale-text {
     text-align: center;
     padding-top: 20px;
     padding-left: 300px;
     padding-right: 300px;
-   }
-   .holiday-sale heading{
+}
+
+.holiday-sale heading {
     font-size: 72px;
-   }
-   .holidays-heading-text{
+}
+
+.holidays-heading-text {
     color: red;
-   }
-   .holidays-sale-pictures{
+}
+
+.holidays-sale-pictures {
     display: flex;
-   }
-   .holidays-sale-pictures{
+}
+
+.holidays-sale-pictures {
     width: 1320px;
-   }
-   .girl-bag{
+}
+
+.girl-bag {
     width: 200px;
     height: 330px;
-    
-   }
-  .discount-off{
+
+}
+
+.discount-off {
     width: 300px;
     height: 300px;
-padding-left: 50px;
-  }
- .gift-box{
-   width: 800px;
-   height: 400px;
- }
- .holiday-sale-foot{
+    padding-left: 50px;
+}
+
+.gift-box {
+    width: 800px;
+    height: 400px;
+}
+
+.holiday-sale-foot {
     width: 1320px;
     height: 100px;
- }
+}
 
- /* our awesome portfolio */
+/* our awesome portfolio */
 
- .our-aweseome-portfolio{
+.our-aweseome-portfolio {
     margin-top: 50px;
     width: 1320px;
-    
- }
- .our-awesome-portfolio-heading{
+
+}
+
+.our-awesome-portfolio-heading {
     font-size: 48px;
- }
- .our-awesome-portfolio-text{
+}
+
+.our-awesome-portfolio-text {
     text-align: left;
     padding: 10px;
     width: 50%;
 
- }
-.recthree{
+}
+
+.recthree {
     width: 420px;
     height: 250px;
     padding-right: 5px;
 }
-.recfour{
+
+.recfour {
     width: 420px;
     height: 250px;
     padding-right: 5px;
 }
-.recfive{
+
+.recfive {
     width: 420px;
     height: 250px;
     padding-right: 5px;
 }
-.recsix{
+
+.recsix {
     width: 420px;
     height: 250px;
     padding-right: 5px;
 }
-.recseven{
+
+.recseven {
     width: 420px;
     height: 250px;
     padding-right: 5px;
 }
-.receight{
+
+.receight {
     width: 420px;
     height: 250px;
-    padding-right: 5px; 
+    padding-right: 5px;
+}
+
+/* subscribe newsletter section */
+.subscribe-newsletter {
+    width: 1320px;
+    height: 400px;
+    background-color: #dddddd;
+    margin-top: 50px;
+}
+
+.subscribe-newsletter img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subscribe-newsletter-heading {
+
+    font-size: 48px;
+}
+
+.subscribe-text-para {
+    width: 900px;
+
+    margin: auto;
+}
+
+.subs-news-text {
+    text-align: center;
+}
+
+.btn-subscribe {
+    width: 210px;
+    height: 60px;
+    color: #fff;
+    background-color: red;
+    border-radius: 0px 50px 50px 0px;
+}
+.sub-field{
+    width:450px;
+    height: 60px;
+    border-radius: 50px;
 }
