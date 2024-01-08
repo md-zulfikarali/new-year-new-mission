@@ -328,3 +328,41 @@ header {
     height: 60px;
     border-radius: 50px;
 }
+/* footer section */
+.last-contents{
+    margin-top: 50px;
+    color: #fff;
+    width: 1320px;
+    height: 150px;
+    display: flex;
+    background-color: #070707;
+    padding-top: 100px;
+    
+    
+}
+.right-column{
+    padding-left: 700px;
+}
+.left-column{
+    padding-left: 100px;
+}
+.foot-images{
+    text-align: center;
+    background-color: #070707;
+    gap: 120px;
+    padding-bottom: 50px;
+    
+}
+.aii-right-reserved{
+    display: flex;
+    color: #fff;
+    background-color: #070707;
+}
+.left-all-text{
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+.right-uns-text{
+    padding-left: 700px;
+    padding-bottom: 30px;
+}
